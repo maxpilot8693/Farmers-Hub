@@ -1,0 +1,6 @@
+{
+  "name": "FarmersHub",
+  "description": "Kenyan digital agricultural marketplace connecting smallholder farmers with buyers for produce, livestock, seeds, equipment and farming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
